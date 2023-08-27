@@ -1,0 +1,14 @@
+span{
+    font-size: 25px;
+}
+.history{
+    padding: 7px;
+   
+    border: 1px solid;
+    text-align: center;
+}
+
+.hide{
+   
+    display: none;    
+}

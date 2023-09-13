@@ -17,22 +17,16 @@ span{
 }
 
 .hide{
- width: 33% !important;
+ width: 35% !important;
  height: 12rem;
     position: absolute !important;
-   right: 1px;  
-   top: 0.2rem;
+   right: 0;  
    display: flex;
    align-items: center;
    justify-content: center;
    background-color: rgb(255, 255, 255) !important;
    border: 1px solid !important;
    display: none;
-   z-index: 1;
-   font-size: 25px;
-   font-weight: bold;
-   text-align: center;
-   
 }
 .alert-content{
     background-color: rgb(0, 255, 128) !important;
@@ -43,18 +37,5 @@ span{
     height: 4rem;
     text-align: center;
     border-radius: 10px;
-    font-size: 30px;
-    font-weight: bolder;
-    z-index: 2;
-  
-}
-
-.text-content{
-    font-size: 20px;
-    font-weight: bold;
-    z-index: 2;
-    position: absolute;
-    top: 7rem;
-    left: 4rem;
 
 }
